@@ -8,7 +8,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://zenzapis.xyz': '8ce3fd5d-969c-4358-9499-0741280e7e4b',
 }
 
 global.alivemsg = `📤I am alive now😇
