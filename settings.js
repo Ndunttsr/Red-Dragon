@@ -60,9 +60,9 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94714568996']
 global.ownertag = '+94714568996' //your tag number
-global.botname = 'FENIX BOT - MD' //ur bot name
+global.botname = 'FENIX BOT - MDy' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "FENIX BOT - MD" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉FENIX BOT-MD ]' //
 
